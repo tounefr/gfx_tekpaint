@@ -31,5 +31,8 @@ Réalisation d'un paint simplifié avec la lib lapin (lib interne à Epitech)
 ### Aperçu interface :  
 ![aperçu interface](/res/interface.png)
 
-### Explorateur de fichiers :
-![explorateur de fichiers](/res/explorer.png)
+## Compilation
+--------------
+
+Nécessite la lib lapin 1.6  
+`make re && ./tekpaint`
