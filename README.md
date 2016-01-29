@@ -2,7 +2,7 @@
 --------------
 Réalisation d'un paint simplifié avec la lib lapin (lib interne à Epitech)
 
-# Fonctionnalités
+## Fonctionnalités
 -----------------
 * Stylo
 * Cercle plein
@@ -18,18 +18,18 @@ Réalisation d'un paint simplifié avec la lib lapin (lib interne à Epitech)
 * Charger une imate BMP
 * Explorateur de fichiers
 
-# Auteurs
+## Auteurs
 ---------
 * Thomas Henon
 * Aurélien Bauer
 * Loic Linder
 * Valentin Strassel
 
-# Aperçu
+## Aperçu
 --------
 
-Aperçu interface :  
-[aperçu interface](https://raw.githubusercontent.com/tounefr/gfx_tekpaint/master/res/interface.png)
+### Aperçu interface :  
+![aperçu interface](/res/interface.png)
 
-Explorateur de fichiers :  
-[explorateur de fichiers](https://raw.githubusercontent.com/tounefr/gfx_tekpaint/master/res/explorer.png)
+### Explorateur de fichiers :
+![explorateur de fichiers](/res/explorer.png)
