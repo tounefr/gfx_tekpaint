@@ -15,7 +15,7 @@ Réalisation d'un paint simplifié avec la lib lapin (lib interne à Epitech)
 * Effacer l'espace de travail
 * Palette de couleurs
 * Charger / Sauvegarder une image TKP (format propre au tekpaint)
-* Charger une imate BMP
+* Charger une image BMP
 * Explorateur de fichiers
 
 ## Auteurs
